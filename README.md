@@ -1,4 +1,4 @@
-# PhoneNumberEditText
+# PhoneNumberEditText [![](https://jitpack.io/v/hlllmr1314/PhoneNumberEditText.svg)](https://jitpack.io/#hlllmr1314/PhoneNumberEditText)
 格式化电话号码的输入框
 
 ## Demo
